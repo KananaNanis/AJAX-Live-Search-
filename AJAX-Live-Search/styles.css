@@ -1,0 +1,19 @@
+#search{
+    margin-top: 100px;
+    margin-left: 450px;
+    width: 500px;
+    height: 50px;
+    float: left;
+    font-size: 26px;
+
+}
+
+#output{
+    /* margin-top: 200px; */
+    font-size: 20px;
+    /* margin-bottom: 300px; */
+    margin-right: 450px;
+    float: right;
+    
+
+}
